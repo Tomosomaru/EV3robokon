@@ -44,7 +44,9 @@ settingTime = timePeriod
 # 制御定数
 constantIntegration = 0.1
 constantdifferential = 0.8
+# 比例定数
 constantProportional = 5
+
 
 display ()
 
